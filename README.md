@@ -13,10 +13,10 @@ a collection of javascript notes
   
 
 ## Loops
- * 'for loop'
- * 'while loop'
- * 'do while loop'
- * 'for in loop' (for objects only)
+ #### 'for loop'
+ #### 'while loop'
+ #### 'do while loop'
+ #### 'for in loop' (for objects only)
   ```
   var shanghai = {
   population: 14.35e6,
@@ -30,9 +30,8 @@ a collection of javascript notes
  };
 ```
 
-## Data Structures
-###### Arrays, Objects, 2D arrays
-  * 'Arrays' : They are like a shopping list
-  * 'Objects': Similar to a collection of variables
+## Data Structures: Arrays, Objects, 2D arrays
+ #### 'Arrays' : They are like a shopping list
+ #### 'Objects': Similar to a collection of variables
   
   
