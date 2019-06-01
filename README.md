@@ -17,7 +17,7 @@ a collection of javascript notes
  * 'while loop'
  * 'do while loop'
  * 'for in loop' (for objects only)
-  *`var shanghai = {
+  *```var shanghai = {
   population: 14.35e6,
   longitude: '31.2000 N',
   latitude: '121.5000 E',
@@ -26,7 +26,7 @@ a collection of javascript notes
 
 for ( props in shanghai){
   console.log(shanghai[props]);
-};`
+};```
 
 
 ## Data Structures
