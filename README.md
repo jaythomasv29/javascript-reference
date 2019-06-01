@@ -18,16 +18,22 @@ a collection of javascript notes
  #### 'do while loop'
  #### 'for in loop' (for objects only)
   ```
+
   var shanghai = {
   population: 14.35e6,
   longitude: '31.2000 N',
   latitude: '121.5000 E',
   country: 'CHN'
  };
-
- for ( props in shanghai){
+   //prints out object values
+ for ( var props in shanghai){
   console.log(shanghai[props]);
  };
+   //prints out object properties
+  for ( var props in shanghai){
+  console.log(props);
+ };
+ 
 ```
 
 ## Data Structures: Arrays, Objects, 2D arrays
