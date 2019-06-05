@@ -40,4 +40,10 @@ a collection of javascript notes
  #### 'Arrays' : They are like a shopping list
  #### 'Objects': Similar to a collection of variables
   
-  
+## ES6 Creating Variables (var should be avoided)
+ ### 'Const' :  (block level scoping) once you create a variable it cannot be changed, prevent the value from being reassigned
+ #### use case (tax rates, product prices, dimensions of interface, 
+ ```const pi = 3.14;```
+### 'Let' :  prevents errors when using for loops
+### Summary: Use 'const' when assigning variables and use 'let' when needed to re-assign variables.
+
